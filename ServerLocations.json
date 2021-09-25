@@ -1,0 +1,9 @@
+[
+    
+    {
+        "Name":"QuestionInfo",
+        "APIAddress":"localhost:8003",
+        "ProtocolScheme":"http://",
+        "DBConnectionString":"server=localhost;user id=;password=;database=sis_suggestions"
+    }
+]
